@@ -1,4 +1,4 @@
-## UAS 6 - Pemrograman Desktop: Sistem Basis Data Penjualan Barang
+## UAS 5 - Pemrograman Desktop: Sistem Basis Data Penjualan Barang
 
 ```bash
 Nama    : Nurul Najwa Sabilla
